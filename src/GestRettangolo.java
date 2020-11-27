@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//modifica
+//modifica operazione qua
 public class GestRettangolo {
 
 	public static void main(String[] args) {
